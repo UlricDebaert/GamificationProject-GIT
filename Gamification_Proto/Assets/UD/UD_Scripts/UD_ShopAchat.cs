@@ -6,6 +6,8 @@ public class UD_ShopAchat : MonoBehaviour
 {
     private int currentPoint;
 
+    public string itemName;
+
     void Start()
     {
         currentPoint = PlayerPrefs.GetInt("totalPoint");
