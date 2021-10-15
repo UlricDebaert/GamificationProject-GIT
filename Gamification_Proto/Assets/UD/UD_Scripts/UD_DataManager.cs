@@ -4,19 +4,21 @@ using UnityEngine;
 
 public class UD_DataManager : MonoBehaviour
 {
-    public float currentPoints;
+    //public float currentPoints;
 
-    public static string[] earningString;
-    public static string[] earningCodeString;
+    //public static string[] earningString;
+    //public static string[] earningCodeString;
+
+    public int numberUsingDay;
+    public int numberExerciceFinished;
+
+    public static string[] friendNameList;
 
     void Start()
     {
-        currentPoints = PlayerPrefs.GetInt("totalPoint");
-    }
+        //currentPoints = PlayerPrefs.GetInt("totalPoint");
 
-
-    void Update()
-    {
-        
+        numberUsingDay = PlayerPrefs.GetInt("numberUsingDay");
+        numberExerciceFinished = PlayerPrefs.GetInt("numberExerciceFinished");
     }
 }

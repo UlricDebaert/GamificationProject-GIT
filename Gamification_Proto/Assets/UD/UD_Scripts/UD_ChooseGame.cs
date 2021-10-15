@@ -6,7 +6,7 @@ public class UD_ChooseGame : MonoBehaviour
 {
     public string[] validationCode;
 
-    public UD_GameCommonScript[] miniGameScript;
+    //public UD_GameCommonScript[] miniGameScript;
 
     void Start()
     {
@@ -25,15 +25,16 @@ public class UD_ChooseGame : MonoBehaviour
         {
             if(enteredCode == validationCode[i])
             {
-                ChooseRandomGame();
+                //ChooseRandomGame();
+
             }
         }
     }
 
-    void ChooseRandomGame()
-    {
-        int rand = Random.Range(0, miniGameScript.Length);
+    //void ChooseRandomGame()
+    //{
+    //    int rand = Random.Range(0, miniGameScript.Length);
 
-        miniGameScript[rand].StartGame();
-    }
+    //    miniGameScript[rand].StartGame();
+    //}
 }
