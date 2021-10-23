@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class UD_MapLocationData : MonoBehaviour
 {
+    public GameObject closeButton;
+
+    [Header("Infos")]
     public string nomDeLaStation;
     public int nombresAmisInteresses;
     public string evenementPropose;
@@ -22,5 +25,6 @@ public class UD_MapLocationData : MonoBehaviour
     {
         pannel.ChangePannelInfo(nomDeLaStation, nombresAmisInteresses, evenementPropose, servicePropose);
         pannelAnim.Play("InfoPannel_Opening");
+        closeButton.SetActive(true);
     }
 }
