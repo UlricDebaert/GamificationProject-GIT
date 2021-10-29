@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 using UnityEngine.UI;
 
 public class UD_Timer : MonoBehaviour
@@ -13,6 +14,8 @@ public class UD_Timer : MonoBehaviour
 
     public Text timerText;
     public Image timerImage;
+
+    public UnityEvent EventOnFinish;
 
     void Start()
     {
@@ -28,6 +31,12 @@ public class UD_Timer : MonoBehaviour
 
         timerText.text = remainingTime.ToString();
         timerImage.fillAmount = (float)remainingTime / (float)totalTime;
+
+        if(remainingTime <= 0.0f)
+        {
+            EventOnFinish.Invoke();
+            remainingTime = totalTime;
+        }
     }
 
     public void RunningTimer()
@@ -45,4 +54,6 @@ public class UD_Timer : MonoBehaviour
     {
         timerIsRunning = false;
     }
+
+
 }
