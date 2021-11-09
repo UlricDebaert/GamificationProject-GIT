@@ -23,12 +23,12 @@ public class GB_GameManager : MonoBehaviour
     }
     void Update()
     {
-        if(chatBox.text != "")
+        if(chatBox.text != null)
         {
-            if (Input.GetKeyDown(KeyCode.Return))
+            if (Input.GetKeyDown(KeyCode.Return) || Input.GetKeyDown(KeyCode.KeypadEnter))
             {
                 SendMessageToChat(username + ": " + chatBox.text, Message.MessageType.playerMessage);
-                chatBox.text = "";
+                chatBox.text = null;
             }
         }
         else
