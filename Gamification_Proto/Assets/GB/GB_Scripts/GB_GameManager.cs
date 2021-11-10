@@ -57,7 +57,7 @@ public class GB_GameManager : MonoBehaviour
         Message newMessage = new Message();
         newMessage.text = text;
 
-        GameObject  newText = Instantiate(textObject, chatPanel.transform);
+        GameObject newText = Instantiate(textObject, chatPanel.transform);
 
         newMessage.textObject = newText.GetComponent<TMP_Text>();
 
@@ -66,6 +66,13 @@ public class GB_GameManager : MonoBehaviour
 
         messageList.Add(newMessage);
     }
+
+    public void SendMessageClick()
+    {
+        SendMessageToChat(username + ": " + chatBox.text, Message.MessageType.playerMessage);
+        chatBox.text = null;
+    }
+
 
     Color MessageTypeColor(Message.MessageType messageType)
     {

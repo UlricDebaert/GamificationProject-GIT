@@ -8,6 +8,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/GB/GB_Scenes/GB_Chat.unity
     guid: d94de546e12617743aa1f75019bebd09
+  - enabled: 1
+    path: Assets/GB/GB_Scenes/GB_PlayerProfile.unity
+    guid: 0b6e43bc1849e0c46985bbe838304300
+  - enabled: 1
+    path: Assets/GB/GB_Scenes/GB_FriendList.unity
+    guid: 27c8667ad87768548a6e8cc7512e2609
+  - enabled: 1
+    path: Assets/GB/GB_Scenes/GB_Rapport.unity
+    guid: 67be3992f9905f249ae4e41b830f22c3
+  - enabled: 1
+    path: Assets/GB/GB_Scenes/GB_Badges.unity
+    guid: 61a907311098f7f4d957717427068d76
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: fc2fccc74bc947743afc05b197bda8d6,
       type: 2}
