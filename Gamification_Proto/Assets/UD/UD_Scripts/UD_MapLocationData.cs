@@ -1,16 +1,19 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class UD_MapLocationData : MonoBehaviour
 {
     public GameObject closeButton;
+    public Image activityIcon;
 
     [Header("Infos")]
     public string nomDeLaStation;
-    public int nombresAmisInteresses;
-    public string evenementPropose;
-    public string servicePropose;
+    //public int nombresAmisInteresses;
+    //public string evenementPropose;
+    //public string servicePropose;
+    public Sprite infosSprite;
 
     UD_MapLocationInfoPannel pannel;
     Animator pannelAnim;
@@ -23,7 +26,9 @@ public class UD_MapLocationData : MonoBehaviour
 
     public void TransmitInfo()
     {
-        pannel.ChangePannelInfo(nomDeLaStation, nombresAmisInteresses, evenementPropose, servicePropose);
+        //pannel.ChangePannelInfo(nomDeLaStation, nombresAmisInteresses, evenementPropose, servicePropose);
+        pannel.ChangePannelInfo(nomDeLaStation);
+        activityIcon.sprite = infosSprite;
         pannelAnim.Play("InfoPannel_Opening");
         closeButton.SetActive(true);
     }
