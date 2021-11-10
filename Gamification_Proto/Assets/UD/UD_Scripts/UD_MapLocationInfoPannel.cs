@@ -18,12 +18,12 @@ public class UD_MapLocationInfoPannel : MonoBehaviour
         pannelAnim = GetComponent<Animator>();
     }
 
-    public void ChangePannelInfo(string nom, int nbAmis, string evenement, string services)
+    public void ChangePannelInfo(string nom)//, int nbAmis, string evenement, string services)
     {
         nomAire.text = nom;
-        nombreAmisInteresses.text = nbAmis.ToString();
-        evenementPropose.text = evenement;
-        servicesProposes.text = services;
+        //nombreAmisInteresses.text = nbAmis.ToString();
+        //evenementPropose.text = evenement;
+        //servicesProposes.text = services;
     }
 
     public void HideInfos()
