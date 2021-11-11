@@ -177,7 +177,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Retour
+  m_text: 'Profil
 
 '
   m_isRightToLeft: 0
