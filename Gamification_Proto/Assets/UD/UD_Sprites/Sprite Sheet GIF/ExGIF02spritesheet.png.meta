@@ -1,0 +1,2444 @@
+fileFormatVersion: 2
+guid: 07825b4572780a5479f29e58e4329704
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4664060140604239797
+    second: ExGIF02spritesheet_0
+  - first:
+      213: -468651593029385886
+    second: ExGIF02spritesheet_1
+  - first:
+      213: 7937261105676576580
+    second: ExGIF02spritesheet_2
+  - first:
+      213: 2219954034228412050
+    second: ExGIF02spritesheet_3
+  - first:
+      213: -3136104183636609062
+    second: ExGIF02spritesheet_4
+  - first:
+      213: 4260437172185317827
+    second: ExGIF02spritesheet_5
+  - first:
+      213: -4434259479773039110
+    second: ExGIF02spritesheet_6
+  - first:
+      213: 8665905165229995392
+    second: ExGIF02spritesheet_7
+  - first:
+      213: 6894731561148699094
+    second: ExGIF02spritesheet_8
+  - first:
+      213: 3979073684337370850
+    second: ExGIF02spritesheet_9
+  - first:
+      213: 3027599171360049721
+    second: ExGIF02spritesheet_10
+  - first:
+      213: -8059594056899735941
+    second: ExGIF02spritesheet_11
+  - first:
+      213: -9057069299739050979
+    second: ExGIF02spritesheet_12
+  - first:
+      213: -7605430905142474201
+    second: ExGIF02spritesheet_13
+  - first:
+      213: 7169950943839135187
+    second: ExGIF02spritesheet_14
+  - first:
+      213: -1237562054282804979
+    second: ExGIF02spritesheet_15
+  - first:
+      213: 3132210297985658104
+    second: ExGIF02spritesheet_16
+  - first:
+      213: 3824755699232257954
+    second: ExGIF02spritesheet_17
+  - first:
+      213: -285073391654134465
+    second: ExGIF02spritesheet_18
+  - first:
+      213: 3031308336634905744
+    second: ExGIF02spritesheet_19
+  - first:
+      213: 6848061466015509625
+    second: ExGIF02spritesheet_20
+  - first:
+      213: -8336829115059282665
+    second: ExGIF02spritesheet_21
+  - first:
+      213: -7731052669918778684
+    second: ExGIF02spritesheet_22
+  - first:
+      213: 7189699973223705411
+    second: ExGIF02spritesheet_23
+  - first:
+      213: -6300767096911701084
+    second: ExGIF02spritesheet_24
+  - first:
+      213: 4565451458797620
+    second: ExGIF02spritesheet_25
+  - first:
+      213: 3449142889657529383
+    second: ExGIF02spritesheet_26
+  - first:
+      213: 5801240408283171196
+    second: ExGIF02spritesheet_27
+  - first:
+      213: 2237238705243003758
+    second: ExGIF02spritesheet_28
+  - first:
+      213: -179684165518460680
+    second: ExGIF02spritesheet_29
+  - first:
+      213: 6963431740718055806
+    second: ExGIF02spritesheet_30
+  - first:
+      213: 5014069610091927017
+    second: ExGIF02spritesheet_31
+  - first:
+      213: -4717258423744881980
+    second: ExGIF02spritesheet_32
+  - first:
+      213: 4304983624986770832
+    second: ExGIF02spritesheet_33
+  - first:
+      213: 3130502619855116622
+    second: ExGIF02spritesheet_34
+  - first:
+      213: 3619417633573779982
+    second: ExGIF02spritesheet_35
+  - first:
+      213: -7386210027707765872
+    second: ExGIF02spritesheet_36
+  - first:
+      213: 6135188345466503770
+    second: ExGIF02spritesheet_37
+  - first:
+      213: -1300005615881133726
+    second: ExGIF02spritesheet_38
+  - first:
+      213: 317819130828778087
+    second: ExGIF02spritesheet_39
+  - first:
+      213: 8362268332799696754
+    second: ExGIF02spritesheet_40
+  - first:
+      213: -2142143906927836680
+    second: ExGIF02spritesheet_41
+  - first:
+      213: -8280812782342374229
+    second: ExGIF02spritesheet_42
+  - first:
+      213: 1685953424464358921
+    second: ExGIF02spritesheet_43
+  - first:
+      213: -7843670131109887262
+    second: ExGIF02spritesheet_44
+  - first:
+      213: 9059235576049804970
+    second: ExGIF02spritesheet_45
+  - first:
+      213: 5036935065818154534
+    second: ExGIF02spritesheet_46
+  - first:
+      213: -8637435837741296361
+    second: ExGIF02spritesheet_47
+  - first:
+      213: 4008825681222573042
+    second: ExGIF02spritesheet_48
+  - first:
+      213: 7760794507271126353
+    second: ExGIF02spritesheet_49
+  - first:
+      213: -9121836440605898437
+    second: ExGIF02spritesheet_50
+  - first:
+      213: -3059117080099265626
+    second: ExGIF02spritesheet_51
+  - first:
+      213: 1057550747680012557
+    second: ExGIF02spritesheet_52
+  - first:
+      213: 4237497128497508940
+    second: ExGIF02spritesheet_53
+  - first:
+      213: 601526444073593787
+    second: ExGIF02spritesheet_54
+  - first:
+      213: 7228422978150924520
+    second: ExGIF02spritesheet_55
+  - first:
+      213: 2349328770591508051
+    second: ExGIF02spritesheet_56
+  - first:
+      213: 2971643076637604938
+    second: ExGIF02spritesheet_57
+  - first:
+      213: 3604068948075853114
+    second: ExGIF02spritesheet_58
+  - first:
+      213: 6219994587940447802
+    second: ExGIF02spritesheet_59
+  - first:
+      213: 998922985332343062
+    second: ExGIF02spritesheet_60
+  - first:
+      213: -8155698440735393534
+    second: ExGIF02spritesheet_61
+  - first:
+      213: -1240237511036317086
+    second: ExGIF02spritesheet_62
+  - first:
+      213: -4527680885393396488
+    second: ExGIF02spritesheet_63
+  - first:
+      213: 7533602966860003048
+    second: ExGIF02spritesheet_64
+  - first:
+      213: -6611356979216634393
+    second: ExGIF02spritesheet_65
+  - first:
+      213: -204663891448172668
+    second: ExGIF02spritesheet_66
+  - first:
+      213: -5389694138073132782
+    second: ExGIF02spritesheet_67
+  - first:
+      213: 8162611688405564484
+    second: ExGIF02spritesheet_68
+  - first:
+      213: -6035656705999625739
+    second: ExGIF02spritesheet_69
+  - first:
+      213: -2791378591793568321
+    second: ExGIF02spritesheet_70
+  - first:
+      213: 1987744514453963459
+    second: ExGIF02spritesheet_71
+  - first:
+      213: 110148615607904380
+    second: ExGIF02spritesheet_72
+  - first:
+      213: 7793522942656473037
+    second: ExGIF02spritesheet_73
+  - first:
+      213: -6133083298343283395
+    second: ExGIF02spritesheet_74
+  - first:
+      213: -2674196526489735677
+    second: ExGIF02spritesheet_75
+  - first:
+      213: -8969748548902553520
+    second: ExGIF02spritesheet_76
+  - first:
+      213: 5238155820501725532
+    second: ExGIF02spritesheet_77
+  - first:
+      213: -4848779242955395958
+    second: ExGIF02spritesheet_78
+  - first:
+      213: -2582936835535911590
+    second: ExGIF02spritesheet_79
+  - first:
+      213: -1534361439416710174
+    second: ExGIF02spritesheet_80
+  - first:
+      213: 1590475699417297359
+    second: ExGIF02spritesheet_81
+  - first:
+      213: 6674563473055099228
+    second: ExGIF02spritesheet_82
+  - first:
+      213: -7002108134760324716
+    second: ExGIF02spritesheet_83
+  - first:
+      213: -7184879672333638338
+    second: ExGIF02spritesheet_84
+  - first:
+      213: -671132011828322592
+    second: ExGIF02spritesheet_85
+  - first:
+      213: 4765274429056719069
+    second: ExGIF02spritesheet_86
+  - first:
+      213: -1627831144030902824
+    second: ExGIF02spritesheet_87
+  - first:
+      213: -5676685426079044856
+    second: ExGIF02spritesheet_88
+  - first:
+      213: 3554445874595925593
+    second: ExGIF02spritesheet_89
+  - first:
+      213: 7007751733916250505
+    second: ExGIF02spritesheet_90
+  - first:
+      213: -5328331632524645988
+    second: ExGIF02spritesheet_91
+  - first:
+      213: 7089421967666009218
+    second: ExGIF02spritesheet_92
+  - first:
+      213: -8567174488483654045
+    second: ExGIF02spritesheet_93
+  - first:
+      213: 14567657584699351
+    second: ExGIF02spritesheet_94
+  - first:
+      213: 4050724058458294565
+    second: ExGIF02spritesheet_95
+  - first:
+      213: -5827047486224776249
+    second: ExGIF02spritesheet_96
+  - first:
+      213: 2404287240690932454
+    second: ExGIF02spritesheet_97
+  - first:
+      213: -8285906897137254907
+    second: ExGIF02spritesheet_98
+  - first:
+      213: 2390650393898264173
+    second: ExGIF02spritesheet_99
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3667
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40d93c630ee54fb0800000000000000
+      internalID: -4664060140604239797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 3667
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2610012fbd30f79f0800000000000000
+      internalID: -468651593029385886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 3667
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44760651ce0d62e60800000000000000
+      internalID: 7937261105676576580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 3667
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e31ebae6cdece10800000000000000
+      internalID: 2219954034228412050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 3667
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad739bb5cd15a74d0800000000000000
+      internalID: -3136104183636609062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3474
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1c9fb090d102b30800000000000000
+      internalID: 4260437172185317827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 3474
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af538323f785672c0800000000000000
+      internalID: -4434259479773039110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 3474
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085b1c675da734870800000000000000
+      internalID: 8665905165229995392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 3474
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d151f333d10faf50800000000000000
+      internalID: 6894731561148699094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 3474
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6a8021f62883730800000000000000
+      internalID: 3979073684337370850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3281
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ace2bc761340a20800000000000000
+      internalID: 3027599171360049721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 3281
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e44a428e1962090800000000000000
+      internalID: -8059594056899735941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 3281
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c35f25573de4280800000000000000
+      internalID: -9057069299739050979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 3281
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a843713e4147690800000000000000
+      internalID: -7605430905142474201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 3281
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d522883568c08360800000000000000
+      internalID: 7169950943839135187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3088
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0188f65edb43dee0800000000000000
+      internalID: -1237562054282804979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 3088
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc614dbba8d77b20800000000000000
+      internalID: 3132210297985658104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 3088
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7b3654b03441530800000000000000
+      internalID: 3824755699232257954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 3088
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d1a8bb2473b0cf0800000000000000
+      internalID: -285073391654134465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 3088
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094cdc12fde511a20800000000000000
+      internalID: 3031308336634905744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2895
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c25e9ee93390f50800000000000000
+      internalID: 6848061466015509625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 2895
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71dd1cb1712ad4c80800000000000000
+      internalID: -8336829115059282665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 2895
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cae7adbe88c5b490800000000000000
+      internalID: -7731052669918778684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 2895
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b62a17802f6c360800000000000000
+      internalID: 7189699973223705411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 2895
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4abdb1055bd2f88a0800000000000000
+      internalID: -6300767096911701084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2702
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430e0700148301000800000000000000
+      internalID: 4565451458797620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 2702
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724f99d0f21dddf20800000000000000
+      internalID: 3449142889657529383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 2702
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c794c504a65228050800000000000000
+      internalID: 5801240408283171196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 2702
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b93cfbfb44c0f10800000000000000
+      internalID: 2237238705243003758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 2702
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f872861432a18df0800000000000000
+      internalID: -179684165518460680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2509
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e710e2b364413a060800000000000000
+      internalID: 6963431740718055806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 2509
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e55c94aebd859540800000000000000
+      internalID: 5014069610091927017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 2509
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca97fae47ee88eb0800000000000000
+      internalID: -4717258423744881980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 2509
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09db5335ccf5ebb30800000000000000
+      internalID: 4304983624986770832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 2509
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49d4e0fb87c17b20800000000000000
+      internalID: 3130502619855116622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2316
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a33f64921ca3230800000000000000
+      internalID: 3619417633573779982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 2316
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bec061d19ee7990800000000000000
+      internalID: -7386210027707765872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 2316
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52c5a96b41942550800000000000000
+      internalID: 6135188345466503770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 2316
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2616463b7c375fde0800000000000000
+      internalID: -1300005615881133726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 2316
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a6fdbc0de196400800000000000000
+      internalID: 317819130828778087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2123
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f16055ebebc0470800000000000000
+      internalID: 8362268332799696754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 2123
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f18cc957739542e0800000000000000
+      internalID: -2142143906927836680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 2123
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacf7f8e5a4a41d80800000000000000
+      internalID: -8280812782342374229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 2123
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e2d0df4b5b56710800000000000000
+      internalID: 1685953424464358921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 2123
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e28ad3c29fa52390800000000000000
+      internalID: -7843670131109887262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1930
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6a70f22ced8bd70800000000000000
+      internalID: 9059235576049804970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1930
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626ccca61c9c6e540800000000000000
+      internalID: 5036935065818154534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1930
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71593316ed9a12880800000000000000
+      internalID: -8637435837741296361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1930
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb1cb7a7b532a730800000000000000
+      internalID: 4008825681222573042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1930
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15db2b46c71e3bb60800000000000000
+      internalID: 7760794507271126353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1737
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39c87a361ab86180800000000000000
+      internalID: -9121836440605898437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1737
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a36a5a3935db85d0800000000000000
+      internalID: -3059117080099265626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1737
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d097a674dcc2dae00800000000000000
+      internalID: 1057550747680012557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1737
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42f4d8ef2d9eca30800000000000000
+      internalID: 4237497128497508940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1737
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbba2062d1d095800800000000000000
+      internalID: 601526444073593787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1544
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e005fa9664805460800000000000000
+      internalID: 7228422978150924520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1544
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35646bfc11e7a9020800000000000000
+      internalID: 2349328770591508051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1544
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4cbb3e32a56d3920800000000000000
+      internalID: 2971643076637604938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1544
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35b314fc99340230800000000000000
+      internalID: 3604068948075853114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1544
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36ea0f6f1cd15650800000000000000
+      internalID: 6219994587940447802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1351
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61105b2a923ecdd00800000000000000
+      internalID: 998922985332343062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1351
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20972c89a7321de80800000000000000
+      internalID: -8155698440735393534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1351
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262d0950e8ac9cee0800000000000000
+      internalID: -1240237511036317086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1351
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fcecc139327a21c0800000000000000
+      internalID: -4527680885393396488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1351
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6f48ecbfbbc8860800000000000000
+      internalID: 7533602966860003048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1158
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed2e7a1bddbf34a0800000000000000
+      internalID: -6611356979216634393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1158
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fe1eb6643e82df0800000000000000
+      internalID: -204663891448172668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1158
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211552cbcb5f335b0800000000000000
+      internalID: -5389694138073132782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1158
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c7dde451c674170800000000000000
+      internalID: 8162611688405564484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1158
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f120b4443a0d3ca0800000000000000
+      internalID: -6035656705999625739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 965
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5a38ac5f70349d0800000000000000
+      internalID: -2791378591793568321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 965
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c28248ba13e59b10800000000000000
+      internalID: 1987744514453963459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 965
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c786fc11593578100800000000000000
+      internalID: 110148615607904380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 965
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc765e113d7282c60800000000000000
+      internalID: 7793522942656473037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 965
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d351e501c39e2eaa0800000000000000
+      internalID: -6133083298343283395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 772
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30eeefa7d6853ead0800000000000000
+      internalID: -2674196526489735677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 772
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0587612f73d058380800000000000000
+      internalID: -8969748548902553520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 772
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51762f37faa1b840800000000000000
+      internalID: 5238155820501725532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 772
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c2b5de7fca5bcb0800000000000000
+      internalID: -4848779242955395958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 772
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a554c9012a0972cd0800000000000000
+      internalID: -2582936835535911590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 579
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb8286766ad4bae0800000000000000
+      internalID: -1534361439416710174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 579
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1b8afc831821610800000000000000
+      internalID: 1590475699417297359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 579
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c592f3a8d10d0ac50800000000000000
+      internalID: 6674563473055099228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 579
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491ecbc00c383de90800000000000000
+      internalID: -7002108134760324716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 579
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35e0a0510e2a4c90800000000000000
+      internalID: -7184879672333638338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 386
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee5495bdf8afa6f0800000000000000
+      internalID: -671132011828322592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 386
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd89d2188d7a12240800000000000000
+      internalID: 4765274429056719069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 386
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d568b9f238c869e0800000000000000
+      internalID: -1627831144030902824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 386
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80bebec6eac5831b0800000000000000
+      internalID: -5676685426079044856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 386
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e84a0d0bde35130800000000000000
+      internalID: 3554445874595925593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981b436c219804160800000000000000
+      internalID: 7007751733916250505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 193
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9924e56c96fd06b0800000000000000
+      internalID: -5328331632524645988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 193
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284559dd7bfa26260800000000000000
+      internalID: 7089421967666009218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 193
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366942d81384b1980800000000000000
+      internalID: -8567174488483654045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 193
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7ab871531c33000800000000000000
+      internalID: 14567657584699351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExGIF02spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529098bc110173830800000000000000
+      internalID: 4050724058458294565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
