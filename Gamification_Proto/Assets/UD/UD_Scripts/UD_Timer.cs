@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.UI;
+using TMPro;
 
 public class UD_Timer : MonoBehaviour
 {
@@ -12,7 +13,7 @@ public class UD_Timer : MonoBehaviour
 
     public bool timerIsRunning;
 
-    public Text timerText;
+    public TMP_Text timerText;
     public Image timerImage;
 
     public UnityEvent EventOnFinish;
