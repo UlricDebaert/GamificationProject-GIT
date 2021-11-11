@@ -6,14 +6,23 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/GB/GB_Scenes/GB_Chat.unity
-    guid: d94de546e12617743aa1f75019bebd09
+    path: Assets/GB/GB_Scenes/GB_MainMenu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/GB/GB_Scenes/GB_Game.unity
+    guid: bbe8a7087037a914fadc5e74b90c1e83
+  - enabled: 1
+    path: Assets/GB/GB_Scenes/GB_FriendList.unity
+    guid: 27c8667ad87768548a6e8cc7512e2609
+  - enabled: 1
+    path: Assets/GB/GB_Scenes/GB_Map.unity
+    guid: 6808362f50f577342a795939200d72dc
   - enabled: 1
     path: Assets/GB/GB_Scenes/GB_PlayerProfile.unity
     guid: 0b6e43bc1849e0c46985bbe838304300
   - enabled: 1
-    path: Assets/GB/GB_Scenes/GB_FriendList.unity
-    guid: 27c8667ad87768548a6e8cc7512e2609
+    path: Assets/GB/GB_Scenes/GB_Chat.unity
+    guid: d94de546e12617743aa1f75019bebd09
   - enabled: 1
     path: Assets/GB/GB_Scenes/GB_Rapport.unity
     guid: 67be3992f9905f249ae4e41b830f22c3

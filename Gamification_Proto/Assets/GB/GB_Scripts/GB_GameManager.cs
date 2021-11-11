@@ -36,13 +36,13 @@ public class GB_GameManager : MonoBehaviour
             if (!chatBox.isFocused && Input.GetKeyDown(KeyCode.Return))
                 chatBox.ActivateInputField();
         }
-        if (!chatBox.isFocused)
+        /*if (!chatBox.isFocused)
         {
             if (Input.GetKeyDown(KeyCode.Space))
             {
                 SendMessageToChat("Space Bar Pressed", Message.MessageType.info);
             }
-        }
+        }*/
     }     
     public void SendMessageToChat(string text, Message.MessageType messageType)
     {

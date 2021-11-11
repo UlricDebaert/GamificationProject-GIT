@@ -253,7 +253,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 1049973769}
   m_Direction: 0
   m_Value: 0
-  m_Size: 0.9999998
+  m_Size: 1
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -547,7 +547,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 17.1, y: -630}
+  m_AnchoredPosition: {x: 25, y: -635}
   m_SizeDelta: {x: 256.12286, y: 117.950905}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &192201663
@@ -597,8 +597,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -0.0020141602}
-  m_SizeDelta: {x: 800, y: 1423.5256}
+  m_AnchoredPosition: {x: -0.000061035, y: -0.0000076294}
+  m_SizeDelta: {x: 800, y: 1600.6223}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &335053799
 MonoBehaviour:
@@ -613,13 +613,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.8666667, g: 0.8666667, b: 0.8666667, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 614e42f7cc007b24d8e1364c5be230ff, type: 3}
+  m_Sprite: {fileID: 21300000, guid: abc7dce492594cc48963658287950b59, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -675,8 +675,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 4, y: -22.2}
-  m_SizeDelta: {x: 600.96716, y: 738.4651}
+  m_AnchoredPosition: {x: 1.7, y: -22.2}
+  m_SizeDelta: {x: 770, y: 738.4651}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &536239573
 MonoBehaviour:
@@ -1151,8 +1151,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 4, y: -429}
-  m_SizeDelta: {x: 600.9673, y: 73.6057}
+  m_AnchoredPosition: {x: 1, y: -429}
+  m_SizeDelta: {x: 770, y: 73.6057}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &777124457
 MonoBehaviour:
@@ -1715,7 +1715,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 208, y: -428}
+  m_AnchoredPosition: {x: 288, y: -428}
   m_SizeDelta: {x: 187.87085, y: 68.60709}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1241311219
@@ -1852,7 +1852,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3707e99b49435594baee363cc822256f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  username: Gustave
+  username: PHILIPPE
   maxMessages: 10
   chatPanel: {fileID: 1544914301}
   textObject: {fileID: 5499631032335562181, guid: 88fe0c47ba8aae44e908f483080f82bd,
@@ -2161,8 +2161,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0.00012207031, y: 0}
+  m_AnchoredPosition: {x: 35.239998, y: 0}
+  m_SizeDelta: {x: -112.24, y: 0}
   m_Pivot: {x: 0, y: 0}
 --- !u!114 &1544914303
 MonoBehaviour:
@@ -2177,15 +2177,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Padding:
-    m_Left: 0
+    m_Left: 35
     m_Right: 0
     m_Top: 0
-    m_Bottom: 0
+    m_Bottom: 40
   m_ChildAlignment: 6
-  m_Spacing: 0
+  m_Spacing: 10
   m_ChildForceExpandWidth: 1
   m_ChildForceExpandHeight: 0
-  m_ChildControlWidth: 0
+  m_ChildControlWidth: 1
   m_ChildControlHeight: 1
   m_ChildScaleWidth: 0
   m_ChildScaleHeight: 0
